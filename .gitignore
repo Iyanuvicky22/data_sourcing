@@ -1,0 +1,164 @@
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Poetry
+poetry.lock
+
+# =========================
+# 📓 Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =========================
+# 🧪 Testing / Coverage
+# =========================
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# =========================
+# 📊 Data Files (IMPORTANT)
+# =========================
+# Ignore raw and processed data
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+
+# BUT allow sample data
+!data/sample/
+!data/sample/*.csv
+
+# =========================
+# 📂 Logs
+# =========================
+*.log
+logs/
+*.out
+*.err
+
+# =========================
+# 🌐 Scraping / Temporary Files
+# =========================
+*.html
+*.xml
+*.txt
+tmp/
+temp/
+.cache/
+
+# =========================
+# ⚙️ Environment Variables
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# 🖥️ OS Files
+# =========================
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# =========================
+# 🧠 IDEs / Editors
+# =========================
+# VS Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# 🐳 Docker
+# =========================
+*.pid
+*.seed
+*.pid.lock
+
+# =========================
+# ☁️ Cloud / Deployment
+# =========================
+*.pem
+*.key
+*.crt
+
+# AWS
+.aws/
+
+# =========================
+# 📦 Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+MANIFEST
+
+# =========================
+# 🔄 Git / Misc
+# =========================
+*.swp
+*.swo
+*~
+
+# =========================
+# 🧾 Documentation Builds
+# =========================
+docs/_build/
+
+# =========================
+# 🧠 ML Models (Optional)
+# =========================
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# =========================
+# 🧱 Airflow / Prefect (if used)
+# =========================
+airflow.db
+airflow-webserver.pid
+logs/
+prefect.db
+
+# =========================
+# 🧪 Local Config Overrides
+# =========================
+config/local.yml
+config/dev.yml
+
