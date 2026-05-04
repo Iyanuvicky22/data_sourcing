@@ -1,7 +1,7 @@
 # 📊 Data Sourcing in Data Engineering — Series
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Articles](https://img.shields.io/badge/Articles-0%2F14-lightgrey)
+![Articles](https://img.shields.io/badge/Articles-1%2F15-lightgrey)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
