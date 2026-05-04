@@ -12,7 +12,9 @@ A structured series exploring **data sourcing fundamentals in modern data engine
 ## 📚 Series Outline
 
 ### 🔰 Foundation
-- [ ] **Introduction to Data Sourcing in Data Engineering**  
+- [ ] **Data Sourcing in Data Engineering: Where Every Reliable Pipeline Begins**  
+  🔗 *April 23rd, 2026*
+- [ ] **Data Sourcing in Data Engineering: Where Every Reliable Pipeline Begins Part 2**  
   🔗 *Coming Soon*
 
 ### 🏢 Structured & Operational Sources
